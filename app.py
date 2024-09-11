@@ -4,7 +4,6 @@ import numpy as np
 import joblib
 import altair as alt
 
-# Load model
 pipe_lr = joblib.load(open(r'./logisticmentalhealthmodel.pkl', 'rb'))
 
 # Function to predict mental health
