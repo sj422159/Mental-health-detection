@@ -1,5 +1,6 @@
-import streamlit as st   # Core library for building the web app interface
-import pandas as pd      # For data manipulation and analysis
-import numpy as np       # For numerical computations
-import joblib            # For loading the trained machine learning model
-import altair as alt     # For creating interactive data visualizations
+streamlit
+pandas
+numpy
+scikit-learn
+joblib 
+altair
